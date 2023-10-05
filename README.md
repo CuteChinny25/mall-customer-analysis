@@ -1,5 +1,8 @@
 # mall-customer-analysis
 Data Analysis of customers visiting the mall.
+Analysis on this data should help us apply optimized marketing strategies to target the right customers and make more profit.
+females visit the mall more
+Young people between ages 30 and 32 seem to earn more annually.
 
 
 
